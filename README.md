@@ -10,3 +10,10 @@ ScreenShot:
 ![Screenshot 2025-04-15 195728](https://github.com/user-attachments/assets/3149c332-401e-4c26-9b3d-87bb03fc8031)
 ![Screenshot 2025-04-15 195822](https://github.com/user-attachments/assets/98472480-f54f-4cfe-8031-9c46c5347442)
 ![Screenshot 2025-04-15 195838](https://github.com/user-attachments/assets/e3bbb7b4-36bb-4f95-8146-6e9d9393c95e)
+
+# How to Run this Project:
+1. Clone or Download this Project First.
+2. Then, Create Dataset like me & Named the Dataset folder "Taka_Images"
+3. Then normally you can run the "Feature_Extraction" File in Models\CNN Folder. After running this you must download neccessary libraries first.
+4. Then you Run app file . you can see an interface where you can select an image & model predict the output like screenshot.
+5. Thats it. Thank You
